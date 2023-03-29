@@ -6,7 +6,7 @@
 .cart-container{
     background-color: rgba(128, 255, 0, 0.494);
     position: sticky;
-
+    text-align: center;
 }
 .products-container{
     display: grid;
