@@ -5,6 +5,14 @@
 
 .cart-container{
     background-color: rgba(128, 255, 0, 0.494);
+    position: sticky;
+
+}
+.products-container{
+    display: grid;
+    grid-template-columns: repeat(3,  1fr);
+    gap: 50px;
+    margin: 50px;
 }
 
 
