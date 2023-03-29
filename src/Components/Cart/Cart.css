@@ -1,3 +1,28 @@
-.cart p{
-    font-size: 17px;
+.cart {
+   position: sticky;
+   top: 0;
 }
+.btn-clear{
+    width: 232px;
+    color: white;
+    background: #FF3030;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.346);
+}
+.btn-review{
+    width: 232px;
+    color: white;
+    background: #FF9900;;
+    border-radius: 10px;
+    box-shadow: 5px 5px rgba(0, 0, 0, 0.346);
+}
+
+
+
+
+
+
+
+
+
